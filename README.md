@@ -2,6 +2,8 @@
 # 💲 STARLIGHT-NGAP ![NOTICE](https://img.shields.io/badge/DO%20WITH%20YOUR%20OWN%20RISK%20%7C%20CEK%20SECARA%20BERKALA%20-f54842)
 
 <div align="center">
+	<h1>QUERY_ID / USER_ID MATI SETELAH 1 JAM</h1>
+	<h3> YANG MAU MAU AJA WKWKWK </h3>
 	<img src="https://raw.githubusercontent.com/raihante/starlight/main/joinus.gif">
 </div>
 
