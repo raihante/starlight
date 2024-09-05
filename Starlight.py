@@ -15,14 +15,12 @@ from onlylog import Log
 
 
 header = {
-      "Accept": "application/json, text/plain, */*",
-      "Accept-Encoding": "gzip, deflate, br, zstd",
       "Accept-Language": "en-US,en;q=0.9",
       "Referer": "https://bot-coin.0x13.work/",
       "Sec-Ch-Ua": '"Chromium";v="128", "Not;A=Brand";v="24", "Microsoft Edge";v="128", "Microsoft Edge WebView2";v="128"',
       "Sec-Ch-Ua-Mobile": "?0",
       "Sec-Ch-Ua-Platform": "Windows",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0"
     }
 
 def banner():
